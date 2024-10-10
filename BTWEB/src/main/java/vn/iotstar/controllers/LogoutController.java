@@ -32,10 +32,7 @@ public class LogoutController extends HttpServlet {
 			for(Cookie cookie : cookies) {
 				if(Constant.COOKIE_REMEMBER.equals(cookie.getName())){
 					cookie.setMaxAge(0); //remove cookie
-<<<<<<< HEAD
-=======
 					cookie.setPath("/");
->>>>>>> f9ef2d84255e97eafe7bece77a2793c37f23ef9e
 					resp.addCookie(cookie); // add again
 					break;
 				}

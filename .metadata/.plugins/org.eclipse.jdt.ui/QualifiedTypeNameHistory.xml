@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.io.PrintWriter"/>
+    <fullyQualifiedTypeName name="java.sql.SQLException"/>
+    <fullyQualifiedTypeName name="java.sql.DatabaseMetaData"/>
+    <fullyQualifiedTypeName name="jakarta.servlet.http.HttpServletRequest"/>
+    <fullyQualifiedTypeName name="jakarta.servlet.http.HttpServletResponse"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="vn.iotstar.services.impl.UserServiceImpl"/>
+    <fullyQualifiedTypeName name="vn.iotstar.models.UserModel"/>
+    <fullyQualifiedTypeName name="vn.iotstar.configs.DBConnectSQL"/>
+    <fullyQualifiedTypeName name="vn.iotstar.dao.IUserDao"/>
+    <fullyQualifiedTypeName name="vn.iotstar.utils.Constant"/>
+    <fullyQualifiedTypeName name="vn.iotstar.services.UserService"/>
+    <fullyQualifiedTypeName name="vn.iotstar.dao.impl.UserDaoImpl"/>
+    <fullyQualifiedTypeName name="vn.iotstar.dao.CategoryDao"/>
+    <fullyQualifiedTypeName name="com.mysql.cj.xdevapi.PreparableStatement"/>
+    <fullyQualifiedTypeName name="java.sql.PreparedStatement"/>
+    <fullyQualifiedTypeName name="java.sql.ResultSet"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="vn.iotstar.configs.DBConnectMySQL"/>
+    <fullyQualifiedTypeName name="java.sql.Connection"/>
+    <fullyQualifiedTypeName name="java.lang.Exception"/>
+    <fullyQualifiedTypeName name="vn.iotstar.services.CategoryService"/>
+    <fullyQualifiedTypeName name="vn.iotstar.services.impl.CategoryServiceImpl"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="java.io.Serializable"/>
+    <fullyQualifiedTypeName name="vn.iotstar.dao.ICategoryDao"/>
+    <fullyQualifiedTypeName name="vn.iotstar.dao.impl.CategoryDaoImpl"/>
+    <fullyQualifiedTypeName name="vn.iotstar.models.CategoryModel"/>
+    <fullyQualifiedTypeName name="jakarta.servlet.annotation.WebServlet"/>
+    <fullyQualifiedTypeName name="jakarta.servlet.http.HttpServlet"/>
+    <fullyQualifiedTypeName name="org.eclipse.tags.shaded.org.apache.xpath.operations.Bool"/>
+    <fullyQualifiedTypeName name="java.lang.Boolean"/>
+</qualifiedTypeNameHistroy>

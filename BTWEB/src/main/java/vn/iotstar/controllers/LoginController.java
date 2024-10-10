@@ -57,7 +57,7 @@ public class LoginController extends HttpServlet {
 		if (username.isEmpty() || password.isEmpty()) {
 			alertMsg = "Tài khoản hoặc mật khẩu không được rỗng";
 			req.setAttribute("alert", alertMsg);
-			req.getRequestDispatcher("/views/login.jsp").forward(req, resp);
+			req.getRequestDispatcher("/views/home.jsp").forward(req, resp);
 			return;
 		}
 		// Xử lý bài toán

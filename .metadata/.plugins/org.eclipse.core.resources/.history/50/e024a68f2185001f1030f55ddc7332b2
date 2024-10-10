@@ -1,0 +1,8 @@
+package vn.iotstar.controllers.admin;
+
+import jakarta.servlet.annotation.WebServlet;
+
+@WebServlet(urlPatterns = "admin/home")
+public class HomeAdminController {
+
+}

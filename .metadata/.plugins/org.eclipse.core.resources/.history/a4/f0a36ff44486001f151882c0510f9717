@@ -1,0 +1,17 @@
+package vn.iotstar.models;
+
+import java.io.Serializable;
+
+public class CategoryModel implements Serializable {
+
+	/**
+	 * 
+	 */
+	private static final long serialVersionUID = 1L;
+
+	private int categoryid;
+	private String categoryname;
+	private String images;
+	private boolean active;
+	
+}
